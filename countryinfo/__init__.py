@@ -1,0 +1,1 @@
+from countryinfo.negara import CountryInfo
