@@ -16,7 +16,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url='hhttps://github.com/codewithwan/infokannegara',
+    url='https://github.com/codewithwan/infokannegara',
     packages=find_packages(),
     license='MIT',
     install_requires=[],
